@@ -1,2 +1,4 @@
-name : supu#color: red
+name : Suprakash pal
 age : 23
+wife: Rumeli Paul
+age: 24
